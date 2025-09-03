@@ -33,7 +33,7 @@ I'm a Computer Science graduate passionate about cybersecurity, focusing on offe
 
 - **LinkedIn:** [linkedin.com/in/benjamin-omoregie-1a0a092a1](https://linkedin.com/in/benjamin-omoregie-1a0a092a1)
 - **Email:** benjaminangelo74@gmail.com
-- **Hack The Box:** [Your Hack The Box Profile](https://www.hackthebox.com/users/profile/your-username)
+
 
 ---
 
