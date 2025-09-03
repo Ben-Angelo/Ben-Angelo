@@ -1,40 +1,23 @@
-Hello! 👋 Welcome to my GitHub profile. I'm Ben Angelo, and I'm currently on a journey to learn data analysis.
-While I don't have any projects to showcase just yet, I'm excited to share my progress and learning experiences with you.
+** Hi there 👋 I'm Benjamin Omoregie **
+Aspiring Penetration Tester | Cybersecurity Professional
+I'm a Computer Science graduate passionate about cybersecurity, with a focus on offensive security and ethical hacking. My goal is to use a hacker's mindset to build stronger, more secure systems. I have a proven ability to learn and adapt to new technologies, and I'm dedicated to continuously honing my skills through hands-on projects and challenges.
 
-## About Me
+What I'm Currently Working On 🚀
+Learning & Growth: I'm actively improving my skills on Hack The Box and studying for my Google Cybersecurity Certificate. My focus is on understanding real-world attack surfaces and defensive strategies.
 
-I'm passionate about exploring and analyzing data to uncover insights and make informed decisions. 
-This repository serves as a space for me to document my learning, share resources, and connect with the data analysis community.
+Security Frameworks: I'm currently learning about key cybersecurity frameworks like NIST and NCSC to understand how organizations manage risk and compliance.
 
-## Learning Progress
+My Projects 📂
+Web Vulnerability Testing with Burp Suite: A project to identify and exploit web vulnerabilities on simulated applications.
 
-I've made significant progress in my data analysis journey, having covered approximately 50% of the curriculum I've set for myself. Some of the key topics I've delved into include:
+Phishing Campaign Simulator: A Python-based tool to simulate social engineering attacks for ethical training and analysis.
 
-- **Introduction to Data Analysis:** Explored the basics of data analysis and various data types.
-- **Data Manipulation:** Learned data cleaning and preprocessing techniques using Python and Pandas.
-- **Exploratory Data Analysis (EDA):** Mastered EDA techniques to extract insights from datasets.
-- **Data Visualization:** Created visualizations using Matplotlib and Seaborn for effective data communication.
-- **Statistical Analysis:** Gained a solid foundation in statistical concepts for data interpretation.
+FTP and Telnet Vulnerability Scanner: A scanner to detect and report configuration weaknesses in network services.
 
-## Current Focus
+Let's Connect 🤝
+LinkedIn: linkedin.com/in/benjamin-omoregie-1a0a092a1
 
-As I continue my journey, I'll be focusing on deepening my understanding of:
+Email: benjaminangelo74@gmail.com
 
-- **Advanced Data Analysis Techniques:** Exploring more complex data manipulation and analysis methods.
-- **Machine Learning Integration:** Understanding how to apply machine learning algorithms to analyze data.
-- **Real-world Projects:** Embarking on practical projects to apply my skills and showcase my abilities.
+Hack The Box: [Your Hack The Box Profile URL]
 
-## Connect with Me
-
-I'd love to connect with fellow learners, data enthusiasts, and anyone interested in data analysis. 
-Feel free to reach out to me:
-
-- 📧 Email: (benjaminangelo73@gmai.com)
-- 💼 LinkedIn: (www.linkedin.com/in/angelo-omoregie-75650925a)
-
-Let's learn and grow together in the world of data analysis!
-
-<!---
-Ben-Angelo/Ben-Angelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
